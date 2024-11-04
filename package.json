@@ -1,0 +1,11 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "A simple Snake game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Donrel Silvano Inta",
+  "license": "MIT"
+}
