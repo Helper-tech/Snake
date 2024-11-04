@@ -9,3 +9,6 @@
   "author": "Donrel Silvano Inta",
   "license": "MIT"
 }
+{
+  "main": "src/index.js"
+}
